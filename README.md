@@ -1,3 +1,5 @@
+Exercícios de Programação em C++
+
 Este repositório contém soluções para uma série de exercícios de programação em C++. Os exercícios cobrem conceitos como manipulação de matrizes, cálculo de somatórios, implementação de algoritmos recursivos e iterativos, e muito mais. Abaixo está a descrição de cada exercício implementado:
 
 Exercício 1: Conversão de Idade em Dias para Anos, Meses e Dias
